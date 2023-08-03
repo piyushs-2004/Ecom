@@ -1,0 +1,13 @@
+@media (max-width: 767px) {
+    .Image{
+        height:100px
+    }
+  }
+  
+  @media (min-width: 768px) {
+    /* Styles for desktop devices */
+    .Image{
+        height:340px
+    }
+  }
+  
